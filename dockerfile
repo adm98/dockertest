@@ -6,3 +6,4 @@ RUN mkdir /tmp/hello
 COPY hlw.txt hlw.txt
 
 CMD cat hlw.txt
+CMD cat hello.txt
